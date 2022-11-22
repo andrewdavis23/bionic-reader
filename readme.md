@@ -2,6 +2,24 @@
 
 Reformats text into bionic text.
 
+```python3
+# .MD Format
+def bold_md(word):
+    bold_num = math.ceil(len(word)/2)
+    if bold_num == 1:
+        bold_num += 1
+    return '**' + word[0:bold_num] + '**' + word[bold_num:]
+
+def convert_text(txt):
+    out_txt = ''
+
+    #convert each word
+    for i in txt.split(' '):
+        out_txt += bold_md(i) + ' '
+
+    return out_txt
+```
+
 ### Bionic Text
 
 If you bold the first few letters of each word in a text, it becomes easier to read and understand quickly.
