@@ -1,4 +1,16 @@
-Example
+### Program
+
+Reformats text into bionic text.
+
+### Bionic Text
+
+If you bold the first few letters of each word in a text, it becomes easier to read and understand quickly.
+
+### Example
+
+Try to speed read the text below.
+
+> Regular text:
 
 One sticks one's finger into the soil to tell by the smell in what land one is. 
 I stick my finger into existence, it smells of nothing. 
@@ -10,6 +22,8 @@ How did I not obtain an interest in this big enterprise they call reality? Why s
 Is it not a voluntary concern?
 And if I am to be compelled to take part in it, where is the director? I should like to make a remark to him.
 
+> Bionic text:
+
 **On**e **sti**cks **on**es **fin**ger **in**to **th**e **so**il **to** **te**ll **by** **th**e **sme**ll **in** **wh**at **la**nd **on**e **is**. 
 **I** **sti**ck **my** **fin**ger **in**to **exist**ence, **it** **sme**lls **of** **noth**ing. 
 **Whe**re **am** **I?** **Wh**o **am** **I?** **Ho**w **ca**me **I** **her**e? 
@@ -19,3 +33,5 @@ And if I am to be compelled to take part in it, where is the director? I should 
 **Ho**w **di**d **I** **no**t **obt**ain **an** **inte**rest **in** **th**is **bi**g **enter**prise **th**ey **ca**ll **real**ity? **Wh**y **sho**uld **I** **ha**ve **an** **inte**rest **in** **it**? 
 **Is** **it** **no**t **a** **volun**tary **conc**ern? 
 **An**d **if** **I** **am** **to** **be** **compe**lled **to** **ta**ke **pa**rt **in** **it**, **whe**re **is** **th**e **direc**tor? **I** **sho**uld **li**ke **to** **ma**ke **a** **rem**ark **to** **hi**m.
+
+> from "Repetitions" by Kierkegaard
