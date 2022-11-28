@@ -1,3 +1,7 @@
+### Bionic Text
+
+If you bold the first few letters of each word in a text, it becomes easier to read and understand quickly.
+
 ### Program
 
 Reformats text into bionic text.
@@ -19,10 +23,6 @@ def convert_text(txt):
 
     return out_txt
 ```
-
-### Bionic Text
-
-If you bold the first few letters of each word in a text, it becomes easier to read and understand quickly.
 
 ### Example
 
